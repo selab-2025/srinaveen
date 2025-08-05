@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hii Naveen how are you i am not good
+=======
+hii Naveen how are you i am good
+
+>>>>>>> origin/main
+
